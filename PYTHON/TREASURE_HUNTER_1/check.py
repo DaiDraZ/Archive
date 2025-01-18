@@ -1,2 +1,8 @@
 import os
-os.system('check_sys.bat')
+os.system('run.bat')
+# import os
+# import time
+
+
+
+

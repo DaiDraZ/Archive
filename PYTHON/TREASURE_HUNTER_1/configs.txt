@@ -1,0 +1,7 @@
+Song: 3
+Music: 1.0
+Sfx: 0.0
+Graphic: 0
+Fps: 0
+Font: 0.4
+Task: 1
