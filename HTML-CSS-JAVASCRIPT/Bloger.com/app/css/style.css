@@ -1,0 +1,141 @@
+html {
+    background-image: url("/image/forest-nature-river-pine-trees.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+body {
+    font-family: Hack !important;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.logo {
+    padding: 10px;
+    font-size: 25px;
+    font-family: Hack;
+    font-weight: bolder;
+    padding: 15px;
+    margin: 1px;
+    color: black;
+    border: 1px white;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    font: 20px Hack;
+    border: 0;
+
+}
+
+
+nav {
+    width: 90%;
+    justify-content: space-between;
+}
+
+nav ul {
+    display: flex;
+    text-align: center;
+    list-style: none;
+}
+
+li {
+    /*    padding: 1px;*/
+    width: 30%;
+}
+
+.nav-item {
+    justify-items: center;
+    text-align: center;
+}
+
+a {
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+a:hover {
+    color: black;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 5px 5px;
+    border-radius: 5px;
+}
+
+
+.btn-topnav {
+    padding: 0;
+    height: auto;
+    align-items: center;
+    width: 75px;
+    height: 50px;
+}
+
+
+.intro {
+    display: block;
+    padding: 5px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+    border: 5px;
+    padding: 10px;
+    margin-top: 5rem;
+    width: 50%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    ;
+}
+
+.intro h1 {
+    font-size: 20px;
+    padding-bottom: 10px;
+
+}
+
+
+footer {
+    padding-top: 10%;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.copyright {
+    font: 20px Hack white;
+
+}
+
+.skills {
+    padding: 1rem;
+    margin: 10%;
+    justify-content: center;
+    align-items: center;
+    border: 5px;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+.skills h1 {
+    text-align: center;
+    text-indent: center;
+}
+
+.skills button {
+    text-align: center;
+}
+
+
+.skill-content {
+    display: flex;
+    text-wrap: wrap;
+    padding: 10px;
+}

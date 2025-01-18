@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="app/css/style.css">
+    <link rel="stylesheet" href="">
+    <title>BLOGGER</title>
+</head>
+
+<body>
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    <script id="__bs_script__">
+    //<![CDATA[
+    (function() {
+        try {
+            var script = document.createElement('script');
+            if ('async') {
+                script.async = true;
+            }
+            script.src = 'http://HOST:3000/browser-sync/browser-sync-client.js?v=3.0.3'.replace("HOST", location.hostname);
+            if (document.body) {
+                document.body.appendChild(script);
+            } else if (document.head) {
+                document.head.appendChild(script);
+            }
+        } catch (e) {
+            console.error("Browsersync: could not append script tag", e);
+        }
+    })() //]]>
+    </script>
+    <div class="logo"><a href="" style="text-decoration: none;">Portfolio</a></div>
+    <header role="banner">
+        <nav>
+            <ul>
+                <li class="nav-item"><a href="#home">
+                        <ion-icon name="home-outline"></ion-icon>Home
+                    </a></li>
+                <li class="nav-item"><a href="#about">
+                        <ion-icon name="search-sharp"></ion-icon>About
+                    </a></li>
+                <li class="nav-item"><a href="#services">
+                        <ion-icon name="people-sharp"></ion-icon>Services
+                    </a></li>
+                <li class="nav-item"><a href="#contact">
+                        <ion-icon name="person-circle-outline"></ion-icon>Contact
+                    </a></li>
+            </ul>
+        </nav>
+        <button class="btn-topnav">Login</button>
+        <button class="btn-topnav">Sign up</button>
+    </header>
+    <div class="intro">
+        <h1><a href="">Truong Van Dai</a></h1>
+        <p style="text-indent: 30px;">
+            Hello everybody, I am <b><i>19 years old</i></b> and a <b><i>full-stack developer</i></b>.We can talk more about the job in the future and experiment about this job.
+        </p>
+    </div>
+    <div class="skills">
+        <h1>Skills</h1>
+        <div class="skill-content">
+            <div id="f-d">
+                <h2>Frontend Development</h2>
+                <p>HTML, CSS, JavaScript, ASP.NET Core/C#, ReactJS</p>
+                <p>Lorem ipsum dolor sit amet, consectetur, adipisicing elit. Tenetur optio molestias fugit nihil temporibus aspernatur, ab vel beatae commodi accusantium vitae debitis, necessitatibus tempora provident quae aliquam in ullam eos!</p>
+            </div>
+            <div id="b-d">
+                <h2>Backend Development</h2>
+                <p>React Native, MongoDB, Django, Flask</p>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Mollitia atque cum quod possimus sed natus blanditiis ipsum dignissimos excepturi, laborum. Odit reprehenderit reiciendis corrupti? Neque necessitatibus iusto tempore libero repellendus.</p>
+                <button>Learn more</button>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p class="copyright">Powered by <ion-icon name="at-outline"></ion-icon>Beewee Team</p>
+        <ion-icon name="logo-github"></ion-icon>
+        <ion-icon name="logo-facebook"></ion-icon>
+        <ion-icon name="logo-twitter"></ion-icon>
+        <ion-icon name="logo-youtube"></ion-icon>
+    </footer>
+</body>
+
+</html>

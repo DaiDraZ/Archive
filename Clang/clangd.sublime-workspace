@@ -1,0 +1,1022 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ios",
+				"iostream"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"just",
+				"justify-content"
+			],
+			[
+				"font-w",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"text-in",
+				"text-indent"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ite",
+				"align-items"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"padin",
+				"padding-left"
+			],
+			[
+				"s",
+				"static"
+			],
+			[
+				"st",
+				"sticky"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"light",
+				"lightgreen"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"padi",
+				"padding-bottom"
+			],
+			[
+				"gre",
+				"greenyellow"
+			],
+			[
+				"text-jus",
+				"text-justify"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"fle",
+				"flex"
+			],
+			[
+				"lig",
+				"lightblue"
+			],
+			[
+				"red",
+				"indianred"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"top",
+				"topnav-bar-left"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"for",
+				"for(int ${1:i}=${2:0}; ${1:i}<${3:n}; ${1:i}++) {$4}"
+			],
+			[
+				"file",
+				"file_base_name"
+			],
+			[
+				"pu",
+				"public static void main(String[] args)"
+			],
+			[
+				"imo",
+				"import"
+			],
+			[
+				"anch",
+				"overflow-anchor"
+			],
+			[
+				"math",
+				"math.h>"
+			],
+			[
+				"ma",
+				"math.h>"
+			],
+			[
+				"ans",
+				"ans = 0\n"
+			],
+			[
+				"ra",
+				"ranked"
+			],
+			[
+				"pla",
+				"player_id"
+			],
+			[
+				"play",
+				"player_id"
+			],
+			[
+				"re",
+				"reverse="
+			],
+			[
+				"plaer",
+				"player_id"
+			],
+			[
+				"playe",
+				"player_id"
+			],
+			[
+				"player",
+				"player_id"
+			],
+			[
+				"ran",
+				"ranked"
+			],
+			[
+				"k",
+				"k_max"
+			],
+			[
+				"m",
+				"max"
+			],
+			[
+				"co",
+				"column"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"to",
+				"top_right"
+			],
+			[
+				"flag",
+				"flag_u"
+			],
+			[
+				"sea",
+				"sea_lv"
+			],
+			[
+				"fla",
+				"flag_d"
+			],
+			[
+				"fl",
+				"flag_u"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"as",
+				"ans = 0\n"
+			],
+			[
+				"y",
+				"year"
+			],
+			[
+				"inp",
+				"inp = int(input())\n"
+			],
+			[
+				"var",
+				"var$1 = 0"
+			],
+			[
+				"va",
+				"var$1 += 1"
+			],
+			[
+				"lcm",
+				"lcm_a"
+			],
+			[
+				"or",
+				"oranges"
+			],
+			[
+				"min",
+				"minw"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"mat",
+				"matchobj"
+			],
+			[
+				"bra",
+				"break"
+			],
+			[
+				"app",
+				"appendleft"
+			],
+			[
+				"p",
+				"popleft"
+			],
+			[
+				"qu",
+				"queue"
+			],
+			[
+				"loe",
+				"lowest"
+			],
+			[
+				"lo",
+				"lowest"
+			],
+			[
+				"w",
+				"wrap"
+			],
+			[
+				"ini",
+				"initial_indent="
+			],
+			[
+				"x",
+				"1:x} = int(input($1)) "
+			],
+			[
+				"cou",
+				"cout << ${1:} << endl;"
+			],
+			[
+				"vec",
+				"vector<int> "
+			],
+			[
+				"tim",
+				"time_count"
+			],
+			[
+				"ex",
+				"execution_time"
+			],
+			[
+				"time",
+				"timer"
+			],
+			[
+				"int",
+				"int(input($1)) "
+			],
+			[
+				"map",
+				"map(int,input($1).split()) "
+			],
+			[
+				"input",
+				"int(input($1)) "
+			],
+			[
+				"i",
+				"1:i} += 1"
+			],
+			[
+				"list",
+				"list(map(int,input($1).split())) "
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"fin",
+				"find"
+			],
+			[
+				"fo",
+				"for(int ${1:i}=${2:0}; ${1:i}<${3:n}; ${1:i}++) {$4}"
+			],
+			[
+				"c",
+				"vector<pair<int,int>> "
+			],
+			[
+				"io",
+				"iostream"
+			],
+			[
+				"fa",
+				"False"
+			],
+			[
+				"t",
+				"t_info"
+			],
+			[
+				"btn",
+				"btn_sv"
+			],
+			[
+				"stude",
+				"student_manager"
+			],
+			[
+				"stat",
+				"state="
+			],
+			[
+				"con",
+				"configure"
+			],
+			[
+				"fi",
+				"fill_set"
+			],
+			[
+				"item",
+				"item_select"
+			],
+			[
+				"it",
+				"item_select"
+			],
+			[
+				"rel",
+				"rely="
+			],
+			[
+				"info",
+				"info_frame"
+			],
+			[
+				"slf",
+				"self"
+			],
+			[
+				"inf",
+				"info_frame"
+			],
+			[
+				"ifo",
+				"info_frame"
+			],
+			[
+				"font",
+				"font="
+			],
+			[
+				"str",
+				"stretch="
+			],
+			[
+				"S",
+				"'se'"
+			],
+			[
+				"ta",
+				"table_frame"
+			],
+			[
+				"exp",
+				"expand="
+			],
+			[
+				"He",
+				"'tree headings'"
+			],
+			[
+				"T",
+				"TFrame"
+			],
+			[
+				"Con",
+				"configure"
+			],
+			[
+				"winfo_req",
+				"winfo_reqwidth"
+			],
+			[
+				"winfo_",
+				"winfo_rgb"
+			],
+			[
+				"winfo_sc",
+				"winfo_screenwidth"
+			],
+			[
+				"mpa",
+				"experimental/unordered_map"
+			],
+			[
+				"CONF",
+				"CONFIG_GUI"
+			],
+			[
+				"th",
+				"theme_selected"
+			],
+			[
+				"la",
+				"LabelFrame"
+			],
+			[
+				"FONT",
+				"font"
+			],
+			[
+				"tabe",
+				"table"
+			],
+			[
+				"file_",
+				"file_txt"
+			],
+			[
+				"table",
+				"table_frame"
+			],
+			[
+				"data",
+				"data_set"
+			],
+			[
+				"F",
+				"FILE"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/CPP.sublime-build",
+					""
+				],
+				[
+					"Packages/User/CPP.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/CPP.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Java.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Java.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/Java.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/MinGW.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MinGW.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/MinGW.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"package con",
+				"Install Package Control"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"packageview",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packagevie",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packagevi",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packageso",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"lsp",
+				"LSP: Goto Implementation"
+			],
+			[
+				"c",
+				"Set Syntax: C++"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: u",
+				"Package Control: Upgrade All Packages"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"ECC",
+				"ECC: Show all errors"
+			],
+			[
+				"clear",
+				"ECC: Clean current CMake cache"
+			],
+			[
+				"prefer",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"lsp-cl",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"auto",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"au",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 215.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/workspace/Clang",
+		"/C/workspace/Clang/src"
+	],
+	"file_history":
+	[
+		"/C/workspace/Clang/A.cpp",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/User/g++.sublime-build",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/User/gcc.sublime-build",
+		"/C/workspace/Clang/B.cpp",
+		"/C/workspace/Clang/clangd.sublime-project",
+		"/C/workspace/Clang/.clang_complete",
+		"/C/workspace/Clang/CMakeLists.txt",
+		"/C/workspace/Clang/compile_commands.json",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/User/EasyClangComplete.sublime-settings",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/EasyClangComplete/EasyClangComplete.sublime-settings",
+		"/C/MinGW/share/gcc-6.3.0/python/libstdcxx/v6/xmethods.py",
+		"/C/MinGW/share/gcc-6.3.0/python/libstdcxx/v6/__init__.py",
+		"/C/workspace/HTML-CSS-JAVASCRIFT/Bloger.com/app/css/style.css",
+		"/C/workspace/HTML-CSS-JAVASCRIFT/Bloger.com/index.html",
+		"/C/workspace/HTML-CSS-JAVASCRIFT/login_web/html/styles.css",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/User/.jsbeautifyrc",
+		"/C/workspace/HTML-CSS-JAVASCRIFT/login_web/html/forest-nature-river-pine-trees.jpg",
+		"/C/workspace/HTML-CSS-JAVASCRIFT/login_web/html/island.jpg",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/User/css_style_completions.sublime-settings",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/CSS Extended Completions/css_style_completions.sublime-settings",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/CSS Completions/css.sublime-completions",
+		"/C/workspace/JAVA/hello.java",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/User/Java.sublime-build",
+		"/C/workspace/PYTHON/Python tutor/morse_trans.py",
+		"/C/workspace/Java/hello.java",
+		"/C/workspace/Java/main.class",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/User/PYTHON.sublime-build",
+		"/C/workspace/HTML-CSS-JAVASCRIFT/login_web/html/main.py",
+		"/C/workspace/HTML-CSS-JAVASCRIFT/Bloger.com/gulpfile.js",
+		"/C/workspace/HTML-CSS-JAVASCRIFT/Bloger.com/package.json",
+		"/C/workspace/HTML-CSS-JAVASCRIFT/Bloger.com/text/style.css",
+		"/C/workspace/HTML-CSS-JAVASCRIFT/Bloger.com/bs-config.js",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-build",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/User/auto_save.sublime-settings",
+		"/C/workspace/PYTHON/Tools/hackerrank.py",
+		"/C/workspace/GAME_DEV/main/setting.py",
+		"/C/workspace/GAME_DEV/main/main.py",
+		"/C/workspace/GAME_DEV/main/node_modules/.bin/npm.cmd",
+		"/C/workspace/GAME_DEV/main/node_modules/.bin/npx.cmd",
+		"/C/workspace/CPP/src/a.cpp",
+		"/C/Users/defcon/Downloads/init.vim",
+		"/C/Users/defcon/AppData/Local/nvim/init.vim",
+		"/C/Users/defcon/AppData/Local/nvim/lua/telescope_config.lua",
+		"/C/Users/defcon/AppData/Local/nvim/lua/telescope-config.lua",
+		"/C/workspace/CPP/CMakeLists.txt",
+		"/C/workspace/CPP/compile_comands.json",
+		"/C/workspace/CPP/compile_flags.txt",
+		"/C/workspace/CPP/src/main.cpp",
+		"/C/MinGW/include/math.h",
+		"/C/MinGW/lib/gcc/mingw32/6.3.0/include/tgmath.h",
+		"/C/workspace/PYTHON/Python tutor/code_forces.py",
+		"/C/workspace/CPP/build/CMakeLists.txt",
+		"/C/workspace/Code block/CP/A.cpp",
+		"/C/workspace/CF/src/A.cpp",
+		"/C/workspace/PYTHON/Tools/buff_fb.py",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/User/python.sublime-completions",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/Theme - Cyanide/Monocyanide - Black.tmTheme",
+		"/C/workspace/pygame/menu/main.py",
+		"/C/workspace/pygame/pygames.py",
+		"/C/workspace/HTML-CSS-JAVASCRIFT/Bloger.com/main.html",
+		"/C/workspace/CF/.clangd",
+		"/C/workspace/CF/CMakeLists.txt",
+		"/C/workspace/CF/compile_commands.json",
+		"/C/workspace/PYTHON/Co so du lieu/__init__.py",
+		"/C/workspace/CF/src/B.cpp",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/User/cpp.sublime-completions",
+		"/C/workspace/CF/src/C.cpp",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/User/completion.sublime-completions",
+		"/C/workspace/CF/src/TASK.out",
+		"/C/workspace/CF/src/TASK.inp",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/User/CF.sublime-snippet",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/User/CF.sublime-build",
+		"/C/workspace/CF/A.cpp",
+		"/C/workspace/CF/D.cpp",
+		"/C/workspace/CF/C.cpp",
+		"/C/workspace/CF/B.cpp",
+		"/C/workspace/CF/A.c",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/User/C-CPP.sublime-build",
+		"/C/workspace/CF/inp.txt",
+		"/C/workspace/PYTHON/Co so du lieu/src/gui.py",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/User/CPP.sublime-build",
+		"/C/workspace/CPP/src/compile_flags.txt",
+		"/C/Users/defcon/Desktop/_vimrc",
+		"/C/workspace/PYTHON/Co so du lieu/src/file.py",
+		"/C/workspace/CPP/build/CPP.sublime-project",
+		"/C/workspace/CPP/build/Makefile",
+		"/C/workspace/PYTHON/Co so du lieu/src/csdl.py",
+		"/C/workspace/PYTHON/Co so du lieu/src/config.py",
+		"/C/workspace/PYTHON/Co so du lieu/data/__init__.py",
+		"/C/Users/defcon/AppData/Local/Sublime Text 3/Package Storage/LSP-pyright/22.9.0/language-server/node_modules/pyright/dist/typeshed-fallback/stdlib/tkinter/ttk.pyi",
+		"/C/workspace/PYTHON/Tkinter/Caculation/source/main.py",
+		"/C/workspace/CPP/a.cpp",
+		"/C/workspace/CPP/main.cpp",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/User/MinGW.sublime-build",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/User/MInGW.sublime-build",
+		"/C/workspace/CPP/build/CmakeProject.sublime-project",
+		"/C/workspace/CPP/build/compile_commands.json",
+		"/C/workspace/CPP/compile_commands.json",
+		"/C/workspace/CPP/CPP_project.sublime-project",
+		"/C/workspace/PYTHON/Tkinter/Caculation/source/set_theme.py",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/User/CMD_term.sublime-build",
+		"/C/workspace/PYTHON/Co so du lieu/docs/__init__.py",
+		"/C/workspace/PYTHON/Co so du lieu/assets/__init__.py",
+		"/C/workspace/PYTHON/Co so du lieu/data/teacher.zf",
+		"/C/workspace/PYTHON/Co so du lieu/data/student.txt",
+		"/C/workspace/PYTHON/Co so du lieu/docs/student.txt",
+		"/C/workspace/PYTHON/Co so du lieu/docs/teacher.txt",
+		"/C/workspace/PYTHON/Co so du lieu/src/GUI.py",
+		"/C/workspace/PYTHON/Tkinter/Caculation/source/__init__.py",
+		"/C/workspace/PYTHON/Python tutor/Mygame.py",
+		"/C/workspace/PYTHON/Tkinter/Caculation/code/main.py",
+		"/C/workspace/PYTHON/Tkinter/Caculation/code/set_theme.py",
+		"/C/workspace/PYTHON/Co so du lieu/init.py",
+		"/C/workspace/PYTHON/Co so du lieu/student.txt",
+		"/C/workspace/PYTHON/OOP/csdl.py",
+		"/C/workspace/PYTHON/OOP/bit.py",
+		"/C/workspace/PYTHON/Tools/zip.py",
+		"/C/workspace/PYTHON/TREASURE_HUNTER_1/main.py",
+		"/C/workspace/PYTHON/TREASURE_HUNTER_1/setting.py",
+		"/C/workspace/PYTHON/TREASURE_HUNTER_1/intro.py",
+		"/C/Users/defcon/AppData/Roaming/Sublime Text 3/Packages/auto-save/auto_save.sublime-settings",
+		"/C/workspace/PYTHON/TREASURE_HUNTER_1/check_sys.bat",
+		"/C/workspace/PYTHON/TREASURE_HUNTER_1/uninstall.bat"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 211.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.autopep8":
+	{
+		"height": 176.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups-dummy":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/PYTHON.sublime-build",
+	"project": "clangd.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pythom",
+				"PYTHON\\Python tutor\\Mygame.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 342.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

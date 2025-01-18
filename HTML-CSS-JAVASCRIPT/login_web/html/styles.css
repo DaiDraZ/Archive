@@ -1,0 +1,59 @@
+body {
+    background-image: url(forest-nature-river-pine-trees.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.main-logo strong i {
+    font-family: sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+.main-logo a {
+    padding: 15px;
+    text-decoration: none;
+}
+
+.main-logo a:hover {
+    padding: 15px;
+    font-family: sans-serif;
+    color: lightblue;
+    background-color: rgba(0, 0, 255, 0.5);
+    border-radius: 20px;
+
+}
+
+.menu-bar {
+    background-color: black;
+}
+
+.menu-bar ul li {
+    padding: 50px 10px;
+    margin: 20px 20px list-style-type: none;
+    color: white;
+    display: inline;
+    border-radius: 20px;
+
+}
+
+.menu-bar a {
+    padding: 50px 20px;
+    margin: 10px 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.menu-bar a:hover {
+    padding: 0 20px;
+    margin: 0 20px 0 20px;
+    background-color: rgba(101, 119, 156, 1.0);
+}
+
+.login-box fieldset {
+    border-radius: 20px;
+    padding: 5% 10% 0 10px;
+    margin: 5% 30% 0 20%;
+    background-color: rgba(49, 57, 71, 0.4);
+}

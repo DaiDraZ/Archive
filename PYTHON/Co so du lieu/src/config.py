@@ -1,0 +1,10 @@
+# +=
+
+THEME = ['dark']
+FONT = 'Arial 16'
+COLOR = 'BLUE'
+FRAME_COLOR = '#608BC1'
+BANNER_COLOR = '#133E87'
+
+WIDTH = 1000
+HEIGHT = 600
